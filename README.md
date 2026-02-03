@@ -8,8 +8,17 @@
 ### 🧠 Como eu conecto as duas áreas
 *Minha arquitetura de trabalho atual:*
 
-![Fluxo de Trabalho](https://mermaid.ink/img/pako:eNpVkMtqwzAQRX9FzKqF_QAfoYXQTdJNCmU3I42nYOsjyw9CSv59Ryltk0V3RnPn3GsGM2aCJWPBj9fWw9O852B-vj_yKx8u1_x2z-fLh_j0KB7i45O4v4uH5N3-Jt7uP8Tz9Uo_4J1jSU6M4V_wT2y5wR6bQ0Oa0vB7ox6s4QM1Z00degsWDa2j9TDRg-CjM3qs0UHT0VpWk_eSczZ7Y63rUOtI2-iQk_dcnq21WiqdD9a8k_EwWq0CLceBflT8Jm_p4y-iUVYg?type=png)
-
+```mermaid
+graph TD;
+    A[Gestor de Tráfego 📊] -->|Dados| B(API Python / Backend 🐍);
+    B -->|Processamento| C{Banco de Dados 🗄️};
+    C -->|PostgreSQL| D[Dashboards React 📈];
+    D -->|Insights| A;
+    
+    style A fill:#2d333b,stroke:#adbac7,color:#fff
+    style B fill:#2d333b,stroke:#3776AB,color:#fff
+    style C fill:#2d333b,stroke:#336791,color:#fff
+    style D fill:#2d333b,stroke:#61DAFB,color:#fff
 ---
 
 ### 🚀 Stack Tecnológica
