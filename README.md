@@ -5,22 +5,6 @@
 
 ---
 
-### 🧠 Como eu conecto as duas áreas
-*Minha arquitetura de trabalho atual:*
-
-```mermaid
-graph TD;
-    A[Gestor de Tráfego 📊] -->|Dados| B(API Python / Backend 🐍);
-    B -->|Processamento| C{Banco de Dados 🗄️};
-    C -->|PostgreSQL| D[Dashboards React 📈];
-    D -->|Insights| A;
-    
-    style A fill:#2d333b,stroke:#adbac7,color:#fff
-    style B fill:#2d333b,stroke:#3776AB,color:#fff
-    style C fill:#2d333b,stroke:#336791,color:#fff
-    style D fill:#2d333b,stroke:#61DAFB,color:#fff
----
-
 ### 🚀 Stack Tecnológica
 
 | **Backend & Python** 🐍 | **Dados & SQL** 🗄️ | **Frontend & Ferramentas** 🛠️ |
