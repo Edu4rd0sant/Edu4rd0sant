@@ -1,6 +1,6 @@
 # 👨‍💻 Eduardo Santos
 
-### Backend Developer & Paid Traffic Manager
+### Backend Developer 🐍 & Paid Traffic Manager
 *Transformando dados de tráfego em arquitetura de software escalável.*
 
 ---
