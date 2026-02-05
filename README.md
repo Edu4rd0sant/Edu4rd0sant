@@ -7,23 +7,27 @@
 
 ### 🚀 Stack Tecnológica
 
-| **Backend & Python** 🐍 | **Dados & SQL** 🗄️ | **Frontend & Ferramentas** 🛠️ |
+| **Backend & Python** 🐍 | **Dados & SQL** 🗄️ | **Modern Web & Tools** 🛠️ |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **FastAPI** (APIs Rápidas) | **ETL** (Automação) | **Git/GitHub** |
-| **Flask** (Microserviços) | **Complex Queries** | **VS Code** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| **FastAPI** (APIs Rápidas) | **Prisma ORM** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Flask** (Microsserviços) | **Complex Queries** | **Git / VS Code** |
 
 ---
 
 ### 📁 Projetos em Destaque
 
-#### 1. 📊 [Dashboard ROAS Primus](https://github.com/Edu4rd0sant/dashboard-roas-primus)
-> *Painel conectado à API do Meta Ads para monitoramento financeiro em tempo real.*
-> * **Tech:** Python, Integração de API, Tratamento de Dados.
+1. **[Dashboard de Inteligência de Tráfego (Fullstack)](https://github.com/Edu4rd0sant/dashboard-trafego-fullstack)** 🚀
+   > *Sistema de BI completo com backend serverless e banco de dados SQL. Sincronização automática via API do Meta Ads e interface moderna (Dark Mode).*
+   > - **Tech:** Next.js 14, React, Tailwind CSS, PostgreSQL, Prisma ORM.
 
-#### 2. 🏠 [Simulador Home Equity](https://github.com/Edu4rd0sant/simulador-home-equity)
-> *Ferramenta para cálculo de crédito com garantia de imóvel.*
-> * **Tech:** Lógica Financeira, HTML/JS.
+2. **[Dashboard ROAS Primus (Python)](COLE_O_LINK_DO_PYTHON_AQUI)** 📊
+   > *Painel de análise de dados conectado à API do Meta Ads para monitoramento financeiro e cálculo de ROAS em tempo real.*
+   > - **Tech:** Python, Streamlit, Pandas, Integração de API.
+
+3. **[Simulador Home Equity](COLE_O_LINK_DO_SIMULADOR_AQUI)** 🏠
+   > *Ferramenta interativa para cálculo de crédito com garantia de imóvel.*
+   > - **Tech:** Lógica Financeira, HTML/JS.
 
 ---
 
